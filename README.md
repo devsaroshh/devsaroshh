@@ -8,10 +8,9 @@
 
 ```yaml
 name: Saroshh
-located_in: Lahore, Pakistan
 current_job: Lead Software Engineer
 education:
-  - "Bachelor's in Computer Science"
+  - "Bachelor's in Sciences"
   - "Continuously expanding my knowledge through self-directed learning and professional development courses."
 
 fields_of_interest:
